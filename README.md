@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ***Neeraj Kumar ***
+- 👋 Hi, I’m ***Neeraj Kumar***
 - 👀 Learning `JavaScript`
 - 😷 Studing in College...
 - 😊 Exploring new things..
