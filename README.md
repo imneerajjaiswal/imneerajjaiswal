@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ***Neeraj Kumar***
-- 👀 Learning `JavaScript`
+- 👀 Learning `JavaScript`Flutter
 - 😷 Studing in College...
 - 😊 Exploring new things..
